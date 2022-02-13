@@ -173,10 +173,10 @@ export default function Home() {
       </div>
 
       <div className={styles.productReview}>
-        <div className={styles.productReviewTitle}>What Our "Pilots Are Saying</div>
+        <div className={styles.productReviewTitle}>What Our Pilots Are Saying</div>
         <div className={styles.productReviewCardContainer}>
           <div className={styles.productReviewCard}>
-            <div className={styles.productReviewText}>With high resolution camera, picture become clear and beautiful. It's so easy to operate drone.</div>
+            <div className={styles.productReviewText}>With high resolution camera, picture become clear and beautiful. Its so easy to operate drone.</div>
             <div className={styles.productReviewerDetail}>
               <div>
                 <Image className="rounded-full" src="/profile1 1.png" alt="Vercel Logo" width={70} height={70} />
